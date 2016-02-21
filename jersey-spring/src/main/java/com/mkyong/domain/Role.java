@@ -1,7 +1,7 @@
 package com.mkyong.domain;
 
 public class Role {
-	
+	//primary key
 	private int rid ;
 	
 	private String rolename;
