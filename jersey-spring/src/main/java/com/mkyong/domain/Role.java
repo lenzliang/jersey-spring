@@ -3,7 +3,7 @@ package com.mkyong.domain;
 public class Role {
 	//primary key
 	private int rid ;
-	
+	//用户名
 	private String rolename;
 
 	public int getRid() {
