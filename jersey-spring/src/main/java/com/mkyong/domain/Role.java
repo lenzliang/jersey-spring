@@ -1,5 +1,5 @@
 package com.mkyong.domain;
-
+//pull test
 public class Role {
 	//primary key
 	private int rid ;
