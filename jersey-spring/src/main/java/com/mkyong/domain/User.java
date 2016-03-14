@@ -1,5 +1,5 @@
 package com.mkyong.domain;
-
+//V1.2
 public class User {
 	//primary key add 2016
 	private int uid ;
