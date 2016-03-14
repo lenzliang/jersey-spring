@@ -1,7 +1,7 @@
 package com.mkyong.domain;
 
 public class User {
-	//primary key add 
+	//primary key add 2016
 	private int uid ;
 	
 	private String username;
