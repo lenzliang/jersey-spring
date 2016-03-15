@@ -3,7 +3,7 @@ package com.mkyong.domain;
 public class User {
 	//primary key add 2016
 	private int uid ;
-	
+	//username
 	private String username;
 	
 	private Role role ;
