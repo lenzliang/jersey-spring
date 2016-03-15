@@ -5,7 +5,7 @@ public class User {
 	private int uid ;
 	//username
 	private String username;
-	
+	//role
 	private Role role ;
 
 	public int getUid() {
