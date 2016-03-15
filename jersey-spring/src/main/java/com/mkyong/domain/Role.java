@@ -5,7 +5,7 @@ public class Role {
 	private int rid ;
 	//用户名
 	private String rolename;
-
+	//rid
 	public int getRid() {
 		return rid;
 	}
